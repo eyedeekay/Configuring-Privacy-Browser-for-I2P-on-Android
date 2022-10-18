@@ -1,9 +1,11 @@
-# Configuring-Privacy-Browser-for-I2P-on-Android
+# Configuring Privacy Browser for I2P on Android
 
 Configuring an I2P Browser on Android consistently has not always been easy.
 After evaluating many approaches, the one which I believe is easiest at this time
 is represented by Privacy Browser which is developed by Soren Stoutner and
 available gratis/libre on F-Droid.
+
+**Using this browser requires you to have the I2P for Android application installed and running.**
 
 ## 1. Open the main menu and tap "Settings"
 
