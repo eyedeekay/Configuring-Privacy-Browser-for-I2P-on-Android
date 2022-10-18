@@ -33,11 +33,15 @@ img {
     left: 5%;
     max-width: 60%;
     padding-right: 2%;
-    float: right;
+    top: 0;
+    right: 0;
+    position: absolute;
 }
 
 li img {
     float: none;
+    top: unset;
+    right: unset;
 }
 
 .inline {
