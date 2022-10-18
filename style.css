@@ -35,11 +35,19 @@ img {
     padding-right: 2%;
 }
 
-body>p:nth-child(20)>img:nth-child(1) {
-    top: 0;
+h3 {
+    top: 22%;
     right: 0;
     left: unset;
     position: absolute;
+}
+
+body>p:nth-child(20)>img:nth-child(1) {
+    top: 30%;
+    right: 0;
+    left: unset;
+    position: absolute;
+    z-index: -1;
 }
 
 li img {
