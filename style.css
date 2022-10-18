@@ -33,10 +33,11 @@ img {
     left: 5%;
     max-width: 60%;
     padding-right: 2%;
+    float: right;
 }
 
 li img {
-    float: right;
+    float: none;
 }
 
 .inline {
