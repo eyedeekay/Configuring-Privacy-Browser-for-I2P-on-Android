@@ -35,7 +35,7 @@ img {
     padding-right: 2%;
 }
 
-img:first-child {
+body>p:nth-child(20)>img:nth-child(1) {
     top: 0;
     right: 0;
     left: unset;

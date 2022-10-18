@@ -33,6 +33,6 @@ For your convenience, you can copy-and-paste from here:
 
 - ![Settings-Homepage](Privacy-Browser-Settings-Homepage.png)
 
-## Download and share this infographic with others:
+### Download and share this infographic with others:
 
 ![Shareable-Infographic](Android_browsing_final.png)
