@@ -42,7 +42,7 @@ h3 {
     position: absolute;
 }
 
-body>p:nth-child(20)>img:nth-child(1) {
+body>p:nth-child(21)>img:nth-child(1) {
     top: 30%;
     right: 0;
     left: unset;
