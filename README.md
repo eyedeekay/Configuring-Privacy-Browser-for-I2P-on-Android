@@ -36,3 +36,5 @@ For your convenience, you can copy-and-paste from here:
 ### Download and share this infographic with others:
 
 ![Shareable-Infographic](Android_browsing_final.png)
+
+- Image contributed by @Shoalsteed
