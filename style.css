@@ -35,6 +35,10 @@ img {
     padding-right: 2%;
 }
 
+li img {
+    float: right;
+}
+
 .inline {
     display: inline;
 }

@@ -29,6 +29,10 @@ For your convenience, you can copy-and-paste from here:
 
  - `http://legwork.i2p/search?=`
 
-## Configure a custom homepage(Optional)
+## 6. Configure a custom homepage(Optional)
 
 ![Settings-Homepage](Privacy-Browser-Settings-Homepage.png)
+
+## Download and share this infographic with others:
+
+- ![Shareable-Infographic](Android_browsing_final.png)
