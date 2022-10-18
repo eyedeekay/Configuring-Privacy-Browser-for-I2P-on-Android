@@ -33,8 +33,12 @@ img {
     left: 5%;
     max-width: 60%;
     padding-right: 2%;
+}
+
+img:first-child {
     top: 0;
     right: 0;
+    left: unset;
     position: absolute;
 }
 
