@@ -36,14 +36,14 @@ img {
 }
 
 h3 {
-    top: 22%;
+    top: 35%;
     right: 0;
     left: unset;
     position: absolute;
 }
 
 body>p:nth-child(21)>img:nth-child(1) {
-    top: 30%;
+    top: 40%;
     right: 0;
     left: unset;
     position: absolute;
